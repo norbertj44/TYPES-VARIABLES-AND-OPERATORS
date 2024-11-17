@@ -1,0 +1,11 @@
+a=5
+b=8
+lenght = 2*a+2*b
+print(lenght)
+
+#???????????????
+#import math
+#a = 5
+#b = 8
+#diagonal = math.sqrt(a**2) + math.sqrt(b**2)
+#print(diagonal)
